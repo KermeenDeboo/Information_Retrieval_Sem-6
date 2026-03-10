@@ -39,4 +39,4 @@ Information_Retrieval_Sem-6/
 
 ├── Prac_9.ipynb
 
-└── Prac_10.ipynb
+└── Practicals.ipynb
